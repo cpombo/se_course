@@ -1,3 +1,4 @@
 # GIT TASK
 
-print('Git is awesome!')
+user_text = input('Please enter message to be printed out: ')
+print(user_text)
